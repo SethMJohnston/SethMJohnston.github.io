@@ -1,13 +1,20 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Seth Johnston"
+email: seth@sethmichaeljohnston.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" 
+My academic background embraces advancement in mathematics and various sciences. 
+During my third year in high school, I worked as a math tutor at Mathnasium. Prior to my early graduation, 
+I was accepted into a Summer Sessions program at UC Berkeley. I moved to San Francisco for the summer and 
+immersed myself in two challenging biology courses at the age of 16. For the remainder of my gap year, I 
+worked at a local gym in Austin to procure customer service skills, save up money for college, and develop a serious workout regimen. 
+I completed Harvard HMX Fundamentals courses in Biochemistry, Genetics, and Immunology, and received a Certificate of Achievement in all 
+three. Upon my admittance to the Texas A&M College of Engineering, I received a departmental scholarship, and a scholarship from Thermon Inc., 
+where an educational committee selected me as one of the recipients of the company’s College Scholarships. My current engineering endeavors include 
+taking online courses to boost my computer engineering skills. As an independent and ambitious engineer, I am excited to develop my hardware and software 
+skills further. I see myself engineering a field relevant to human health optimization and genetics/epigenetics.
+baseurl: "SethMJohnston/SethMJohnston.github.io" 
 url: "/portfolio-template" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+twitter_username: nikeseth01
+github_username:  SethMJohnston
 
 sass:
   sass_dir: _sass
